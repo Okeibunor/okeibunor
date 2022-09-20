@@ -13,10 +13,11 @@
 - 👨🏻‍💻 &nbsp; Freelance at Apex Technologies. 
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh16&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/- Okeibunor%20Favour-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)](https://www.linkedin.com/in/favour-okeibunor/)
+
 [![Gmail Badge](https://img.shields.io/badge/-favourokeibunor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:favourokeibunor@gmail.com)](mailto:favourokeibunor@gmail.com)
+
 [![Twitter Badge](https://img.shields.io/badge/-@favourokeibunor?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/favourokeibunor)](https://twitter.com/favourokeibunor)
 
 
@@ -48,14 +49,6 @@
 
 <br/>
 
-## 📈 Stats
-
-![Okeibunor's github stats](https://github-readme-stats.vercel.app/api?username=okeibunor&hide=["issues"]&show_icons=true&line_height=30)
-
-![Okeibunor's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=okeibunor&theme=buefy&layout=compact&langs_count=10)
-
-----
-
 <!--
 **Okeibunor/okeibunor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -64,9 +57,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Pocket App
 - 🌱 I’m currently learning more concepts Cloud Devops, Terraform, Kubernetes.
 - 👯 I’m looking to collaborate on awesome projects. Language Agnostic. Especially scripting languages like Javascript, 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Ruby, Nodejs, MVC, Design Patterns
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Hot water will turn into ice faster than cold water
 -->
