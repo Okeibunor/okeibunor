@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="250"/>
 </p>
 
 <h3> Hey there👋! I'm Okeibunor Favour</h2>
@@ -32,13 +32,13 @@
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuejs)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- ⚙🌐 &nbsp;
+- 🌐 &nbsp;
   ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-333333?style=flat&logo=rubyonrails)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Expressjs](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
