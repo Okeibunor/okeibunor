@@ -14,20 +14,16 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-Okeibunor%20Favour-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)](https://www.linkedin.com/in/favour-okeibunor/)
-
-[![Gmail Badge](https://img.shields.io/badge/-favourokeibunor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:favourokeibunor@gmail.com)](mailto:favourokeibunor@gmail.com)
-
-[![Twitter Badge](https://img.shields.io/badge/-@favourokeibunor?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/favourokeibunor)](https://twitter.com/favourokeibunor)
+[![LinkedIn](https://img.shields.io/badge/-Okeibunor%20Favour-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)](https://www.linkedin.com/in/favour-okeibunor/)[![Gmail Badge](https://img.shields.io/badge/-favourokeibunor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:favourokeibunor@gmail.com)](mailto:favourokeibunor@gmail.com)[![Twitter Badge](https://img.shields.io/badge/-@favourokeibunor?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/favourokeibunor)](https://twitter.com/favourokeibunor)
 
 
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
