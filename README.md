@@ -10,11 +10,11 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Engineering at University of Benin - Specialized in Petroleum Engineering.
 - 💼 &nbsp; Learnt about Web Application Development(PHP, Ruby, Javascript).
-- 👨🏻‍💻 &nbsp; Freelance at Apex Technologies. 
+- 👨🏻‍💻 &nbsp; Working at Patronize, building Petmate, ExchangeSAAS. 
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/- Okeibunor%20Favour-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)](https://www.linkedin.com/in/favour-okeibunor/)
+[![LinkedIn](https://img.shields.io/badge/-Okeibunor%20Favour-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)](https://www.linkedin.com/in/favour-okeibunor/)
 
 [![Gmail Badge](https://img.shields.io/badge/-favourokeibunor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:favourokeibunor@gmail.com)](mailto:favourokeibunor@gmail.com)
 
