@@ -35,14 +35,14 @@
   ![Vue](https://img.shields.io/badge/-React-333333?style=flat&logo=vue)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSql](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- ⚙️ &nbsp Frameworks;
-  ![RubyOnRails](https://img.shields.io/badge/-Git-333333?style=flat&logo=ruby)
-  ![Laravel](https://img.shields.io/badge/-Git-333333?style=flat&logo=laravel)
-  ![Expressjs](https://img.shields.io/badge/-Git-333333?style=flat&logo=express)
-  ![Adonisjs](https://img.shields.io/badge/-Git-333333?style=flat&logo=adonis)
+- ⚙️ &nbsp;
+  ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-333333?style=flat&logo=rubyonrails)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Expressjs](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Adonisjs](https://img.shields.io/badge/-Adonis-333333?style=flat&logo=adonisjs)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
