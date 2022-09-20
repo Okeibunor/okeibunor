@@ -8,8 +8,8 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Engineering at University of Benin - Specialized in Petroleum Engineering.
-- 💼 &nbsp; Learnt about Web Application Development(PHP, Ruby, Javascript).
+- 🎓 &nbsp; B.Sc. Engineering
+- 💼 &nbsp; Experienced in Web Application Development(PHP, Ruby, Javascript).
 - 👨🏻‍💻 &nbsp; Working at Patronize, building Petmate, ExchangeSAAS. 
 
 <br>
@@ -38,6 +38,11 @@
   ![PostgreSql](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+- ⚙️ &nbsp Frameworks;
+  ![RubyOnRails](https://img.shields.io/badge/-Git-333333?style=flat&logo=ruby)
+  ![Laravel](https://img.shields.io/badge/-Git-333333?style=flat&logo=laravel)
+  ![Expressjs](https://img.shields.io/badge/-Git-333333?style=flat&logo=express)
+  ![Adonisjs](https://img.shields.io/badge/-Git-333333?style=flat&logo=adonis)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
